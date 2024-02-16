@@ -1,7 +1,9 @@
 
 # Barbería Alura
 
-<img src="./Proyect-Test/assets/Img_Proyecto.png" alt="Speech to Text Converter" width="500">
+<img src="./archivoreset.css/Home.jpeg" alt="Barberia Alura" width="500">
+<img src="./archivoreset.css/Productos.jpeg" alt="Barberia Alura" width="500">
+<img src="./archivoreset.css/Contacto.jpeg" alt="Barberia Alura" width="500">
 
 ## Descripción
 
